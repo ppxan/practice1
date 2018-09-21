@@ -1,0 +1,29 @@
+.select-container{
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    user-select: none;
+    text-align: center;
+    width: 200px;
+    box-shadow:0px 0px 5px #777777;
+
+}
+
+.select-arrow{
+    color: #777777;
+    float: right;
+}
+
+.select-content{
+    margin-top: 1px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    box-shadow:0px 0px 3px #777777;
+}
+.select-option{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #dddddd;
+}
